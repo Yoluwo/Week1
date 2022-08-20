@@ -53,3 +53,4 @@ console.log(challenge.indexOf('a'))
 console.log(challenge.lastIndexOf('a'))
 
 //Exercise level 1: Question 17
+console.log(challenge+1)
